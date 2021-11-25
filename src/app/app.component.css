@@ -1,0 +1,12 @@
+.navbar {
+  background-color: turquoise;
+}
+
+.navbar-light .navbar-nav .nav-item {
+  color: black;
+  font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-item:hover {
+  text-decoration: underline;
+}
